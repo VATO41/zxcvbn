@@ -1,0 +1,24 @@
+.box{
+    height: 165px;
+    width: 305px;
+    background-color: white;
+    border: 1px solid blue;
+}
+.boxx{
+    width: 657px;
+    height: 121px;
+        background-color: white;
+        border: 3px dashed purple;
+}
+.q{
+    width: 399px;
+    height: 95px;
+    background-color: white;
+    border: 3px solid  green;
+}
+.w{
+    width: 1097px;
+    height: 173px;
+    background-color: cyan;
+    border: 3px solid burlywood;
+}
